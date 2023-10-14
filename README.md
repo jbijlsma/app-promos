@@ -33,7 +33,7 @@
           <p><img src="screenshots/qwixxed.gif"/></p>
         </td>
         <td style="vertical-align: top; padding-top: 20px; min-width: 100px;">
-          <a href="https://github.com/jbijlsma/active-together-league-promo">Promo Page</a>
+          <a href="https://github.com/jbijlsma/dnw-qwixx-promo">Promo Page</a>
         </td>
       </tr>
    </tbody>
