@@ -1,20 +1,5 @@
 # App Promos
 
-<style>
-
-  td.name {
-    
-  }
-
-  td.media {
-    
-  }
-
-  td.links {
-    
-  }
-</style>
-
 <table>
    <tbody>
       <tr>
